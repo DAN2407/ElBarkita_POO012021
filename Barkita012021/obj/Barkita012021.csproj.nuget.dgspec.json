@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\Intro\\Barkita012021\\Barkita012021.csproj": {}
+    "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\intro2\\ElBarkita_POO012021\\Barkita012021\\Barkita012021.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\Intro\\Barkita012021\\Barkita012021.csproj": {
+    "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\intro2\\ElBarkita_POO012021\\Barkita012021\\Barkita012021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\Intro\\Barkita012021\\Barkita012021.csproj",
+        "projectUniqueName": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\intro2\\ElBarkita_POO012021\\Barkita012021\\Barkita012021.csproj",
         "projectName": "Barkita012021",
-        "projectPath": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\Intro\\Barkita012021\\Barkita012021.csproj",
+        "projectPath": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\intro2\\ElBarkita_POO012021\\Barkita012021\\Barkita012021.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\Intro\\Barkita012021\\obj\\",
+        "outputPath": "D:\\Users\\Administrador\\Desktop\\Fundamentos\\2021\\POO\\Labos\\intro2\\ElBarkita_POO012021\\Barkita012021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
