@@ -14,12 +14,12 @@ namespace Barkita012021
             Console.WriteLine("Enter a value for b :");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} * {b} equals {multiplynumbers(a,b)} ");
+            Console.WriteLine($"Subtract {a} - {b} equals {subtractNumbers(a,b)} ");
         }
 
-        public static int multiplynumbers(int a, int b)
+        public static int subtractNumbers(int a, int b)
         {
-            return a * b;
+            return a - b;
         }
     }
 }
